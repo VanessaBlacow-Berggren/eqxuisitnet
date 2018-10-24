@@ -27,6 +27,19 @@ h1 {
 }
 
 a {
-color: #69CBBB;
-text-decoration: none;
+  color: black;
+  text-decoration: underline;
+  text-decoration-color: #7FFF00;
+}
+
+a:visited {
+  color: black;
+  text-decoration: underline;
+  text-decoration-color: #7FFF00;
+}
+
+a:hover {
+  color: #7FFF00;
+  text-decoration: underline;
+  text-decoration-color: black;
 }
