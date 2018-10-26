@@ -9,7 +9,7 @@ body {
 }
 
 body{
-  background-image: url("images/void.jpg");
+  background-image: url("images/cat.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -30,16 +30,16 @@ h1 {
 }
 
 a {
-  color: #483D8B;
+  color: white;
   text-decoration: none;
 }
 
 a:visited {
-  color: #483D8B;
+  color: white;
   text-decoration: none;
 }
 
 a:hover {
-  color: ##483D8B;
+  color: #FF0000;
   text-decoration: none;
 }
